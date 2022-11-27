@@ -1,0 +1,15 @@
+E:\GeekBrainsEducation\C#\First\bin\Debug\net7.0\First.exe
+E:\GeekBrainsEducation\C#\First\bin\Debug\net7.0\First.deps.json
+E:\GeekBrainsEducation\C#\First\bin\Debug\net7.0\First.runtimeconfig.json
+E:\GeekBrainsEducation\C#\First\bin\Debug\net7.0\First.dll
+E:\GeekBrainsEducation\C#\First\bin\Debug\net7.0\First.pdb
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\First.csproj.AssemblyReference.cache
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\First.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\First.AssemblyInfoInputs.cache
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\First.AssemblyInfo.cs
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\First.csproj.CoreCompileInputs.cache
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\First.dll
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\refint\First.dll
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\First.pdb
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\First.genruntimeconfig.cache
+E:\GeekBrainsEducation\C#\First\obj\Debug\net7.0\ref\First.dll
